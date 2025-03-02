@@ -1,0 +1,1 @@
+- For annotation of burmese texts and images for PDF files
